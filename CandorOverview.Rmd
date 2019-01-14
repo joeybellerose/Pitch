@@ -5,14 +5,13 @@ date: January 12, 2019
 output: html_notebook
 ---
 
-# What Is Our Purpose?
-<h2>Hello</h2>
+## What Is Our Purpose?
 
 - To extract truth from data to generate the answers decision makers need to move forward
 
 - What could we accomplish if we had the right answers to the right questions?
 
-# How We Extract Truth?
+## How We Extract Truth?
 
 - Build in Transparency at all levels
 
@@ -22,7 +21,7 @@ output: html_notebook
 
   - A proper foundation allows understanding of context
 
-# What Do We Offer?
+## What Do We Offer?
 
 - Cleaning - Making large/unstructured/messy data usable
 
@@ -38,7 +37,7 @@ output: html_notebook
 
 - Communication - Providing actionable insights that show a clear path forward
 
-# How Do Others Benefit
+## How Do Others Benefit
 
 - Automated analysis/reporting
 
@@ -46,13 +45,13 @@ output: html_notebook
 
 - Recommendations on path forward
 
-# Examples
+## Examples
 
-## Mike's Test Automation
+### Mike's Test Automation
 
-## Joey's Contract Analysis
+### Joey's Contract Analysis
 
-# What Is The Path Forward?
+## What Is The Path Forward?
 
 - Incubating under existing Prime
 

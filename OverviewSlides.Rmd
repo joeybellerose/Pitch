@@ -11,15 +11,19 @@ output: revealjs::revealjs_presentation
 
 - What could we accomplish if we had the right answers to the right questions?
 
+
 ## How We Extract Truth?
 
 - Build in Transparency at all levels
 
-  - Create clarity, accuracy and understanding
-
 - Data needs to be the foundation
 
-  - A proper foundation allows understanding of context
+<aside class="notes">
+- Create clarity, accuracy and understanding
+- A proper foundation allows understanding of context
+</aside>
+
+  
 
 ## What Do We Offer?
 
@@ -37,7 +41,7 @@ output: revealjs::revealjs_presentation
 
 - Communication - Providing actionable insights that show a clear path forward
 
-## How Do Others Benefit
+## How Do Others Benefit?
 
 - Automated analysis/reporting
 
@@ -45,13 +49,12 @@ output: revealjs::revealjs_presentation
 
 - Recommendations on path forward
 
-# Examples
+## 
+<section data-background-video="Stock App 2018.07.24.mp4" data-background-video-loop data-background-video-muted>
+</section>
 
-## Mike's Test Automation
 
-## Joey's Contract Analysis
-
-# What Is The Path Forward?
+## What Is The Path Forward?
 
 - Incubating under existing Prime
 

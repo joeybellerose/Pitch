@@ -502,8 +502,9 @@ document.getElementsByTagName('head')[0].appendChild(style);
 </section>
 <section id="section" class="slide level2">
 <h2></h2>
-<section data-background-video="Stock App 2018.07.24.mp4" data-background-video-loop data-background-video-muted>
-</section>
+<video width="100%" height="600" controls id="video">
+<source src="Stock App 2018.07.24.mp4" type="video/mp4" >
+</video>
 </section>
 <section id="what-is-the-path-forward" class="slide level2">
 <h2>What Is The Path Forward?</h2>
@@ -514,6 +515,9 @@ document.getElementsByTagName('head')[0].appendChild(style);
 </ul></li>
 <li class="fragment"><p>Would you be interested in collaborating with us?</p></li>
 </ul>
+<script>
+document.querySelector('video').playbackRate = 0.5
+</script>
 </section>
     </div>
   </div>

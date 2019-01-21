@@ -1,9 +1,11 @@
 ---
 title: "Candor Analytics Overview"
 author: Joey Bellerose & Mike McHenry
-date: January 12, 2019
+date: "`r format(Sys.time(), '%B %d, %Y')`"
 output: revealjs::revealjs_presentation
 ---
+
+Sys.Date()
 
 ## What Is Our Purpose?
 

@@ -1,5 +1,5 @@
 ---
-title: "Candor Analytics Overview"
+title: "J.F. Taylor Discussion"
 author: Joey Bellerose & Mike McHenry
 date: "`r format(Sys.time(), '%B %d, %Y')`"
 output: revealjs::revealjs_presentation
@@ -24,13 +24,6 @@ output: revealjs::revealjs_presentation
 
 ![alt text](TransparencyEdit.png)
 
-
-
-<aside class="notes">
-- Create clarity, accuracy and understanding
-- A proper foundation allows understanding of context
-</aside>
-
   
 
 ## What Do We Offer?
@@ -49,24 +42,6 @@ output: revealjs::revealjs_presentation
 
 - Communication - Providing actionable insights that show a clear path forward
 
-## How Do Others Benefit?
-
-- Automated analysis/reporting
-
-- Real-time results
-
-- Recommendations on path forward
-
-- NAVAIR Specific Examples
-  - Test
-  - Program/Contracts
-
-## Example
-<video width="100%" height="600" controls id="video">
-<source src="Stock App 2018.07.24.mp4" type="video/mp4" >
-</video>
-
-<a href = "https://bellerosejoey.shinyapps.io/StockApp/">Stock Application</a>
 
 ## What Is Our Collective Experience?
 - Combined 20 years of working on NAVAIR projects
@@ -85,36 +60,3 @@ output: revealjs::revealjs_presentation
   - Tableau
   - Qlik
   - Python
-  
-
-
-# What Is Our Path Forward?
-
-## How Can We Help Others?
-- Potential Customers
-  - MALD - Data Post-Processing
-  - FXDO - Automated Reporting
-  - COTF - Automated Reporting
-  - Contracts (2.4) - Real-time Dashboards
-  - Contracts (2.0) - Portfolio Analysis
-  - PMA-280 - Real-time Modeling
-  - PEO U&W - Portfolio Digitization & Management
-  - PMA-234 ?
-  - PMA-290 ?
-  - DT ?
-  - VX-9 ?
-
-## What Are We Working Through?
-- Incubating/Mentorship under established company
-
-  - Business Operations
-  - Business Plan
-
-- Subcontract under existing Prime
-
-  - Combine Prime's domain expertise with our analytical understanding
-
-
-<script>
-document.querySelector('video').playbackRate = 0.5
-</script>

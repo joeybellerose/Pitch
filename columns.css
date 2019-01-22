@@ -4,3 +4,7 @@
 .col{
     flex: 1;
 }
+
+.reveal li > ul > li{
+    font-size: 28px;
+}

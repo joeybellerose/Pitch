@@ -3,7 +3,7 @@ library(revealjs)
 
 # specify an option for incremental rendering
 render(
-  "JFTaylor.Rmd", 
+  "OverviewSlides.Rmd", 
   revealjs_presentation(
     incremental = FALSE, 
     theme = "simple", 

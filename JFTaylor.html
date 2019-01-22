@@ -13,13 +13,8 @@
 
 
 
-<link rel="stylesheet" href="JFTaylor_files/reveal.js-3.3.0.1/css/theme/night.css" id="theme">
+<link rel="stylesheet" href="JFTaylor_files/reveal.js-3.3.0.1/css/theme/simple.css" id="theme">
 
-<style type="text/css">
-.reveal section img {
-  background: rgba(255, 255, 255, 0.85);
-}
-</style>
 
   <!-- some tweaks to reveal css -->
   <style type="text/css">
@@ -66,6 +61,7 @@
 
     <style type="text/css">code{white-space: pre;}</style>
 
+    <link rel="stylesheet" href="columns.css"/>
 
 <!-- Printing and PDF exports -->
 <script id="paper-css" type="application/dynamic-css">
@@ -465,13 +461,9 @@ document.getElementsByTagName('head')[0].appendChild(style);
 <ul>
 <li><p>To extract insight from data to generate the answers decision makers need to move forward</p></li>
 <li><p>What could we accomplish if we had the right answers to the right questions at the right time?</p></li>
-<li><blockquote>
-<p>Data Science is the process of turning data into knowledge, understanding and insight. ~Hadley Wickham (RStudio Chief Data Scientist)</p>
-</blockquote></li>
-<li><blockquote>
-<p>If I had asked people what they wanted, they would have said faster horses. ~Henry Ford</p>
-</blockquote></li>
 </ul>
+<p>“Data Science is the process by which data becomes understanding, knowledge, and insight.”</p>
+<p>~Hadley Wickham (RStudio Chief Data Scientist)</p>
 </section>
 <section id="how-we-extract-insight" class="slide level2">
 <h2>How We Extract Insight?</h2>
@@ -480,6 +472,12 @@ document.getElementsByTagName('head')[0].appendChild(style);
 <li><p>Build in Transparency at all levels</p></li>
 </ul>
 <p><img data-src="TransparencyEdit.png" alt="alt text" /></p>
+<aside class="notes">
+<ul>
+<li>Create clarity, accuracy and understanding</li>
+<li>A proper foundation allows understanding of context</li>
+</ul>
+</aside>
 </section>
 <section id="what-do-we-offer" class="slide level2">
 <h2>What Do We Offer?</h2>
@@ -495,16 +493,35 @@ document.getElementsByTagName('head')[0].appendChild(style);
 </section>
 <section id="what-is-our-collective-experience" class="slide level2">
 <h2>What Is Our Collective Experience?</h2>
+<p>Combined 20 years of working on NAVAIR projects</p>
+<div class="container">
+<div class="col">
 <ul>
-<li><p>Combined 20 years of working on NAVAIR projects</p></li>
-<li>Who
+<li>Customers
 <ul>
-<li>PMA-201 (M&amp;S/T&amp;E Analysis, Requirements Management)</li>
-<li>PMA-280 (Proposal Analysis/Negotiation)</li>
-<li>PMA-281 (Cost Analysis)</li>
-<li>PMA-209 (Financial Mangement)</li>
-<li>4.0M (AoA)</li>
+<li>PMA-201</li>
+<li>PMA-280</li>
+<li>PMA-281</li>
+<li>PMA-209</li>
+<li>4.0M</li>
 </ul></li>
+</ul>
+</div>
+<div class="col">
+<ul>
+<li>Services
+<ul>
+<li>M&amp;S/T&amp;E Analysis</li>
+<li>Requirements Management</li>
+<li>Proposal Analysis/Negotiation</li>
+<li>Cost Analysis</li>
+<li>Financial Mangement</li>
+<li>AoA</li>
+</ul></li>
+</ul>
+</div>
+<div class="col">
+<ul>
 <li>Tools
 <ul>
 <li>Excel</li>
@@ -515,6 +532,8 @@ document.getElementsByTagName('head')[0].appendChild(style);
 <li>Python</li>
 </ul></li>
 </ul>
+</div>
+</div>
 </section>
     </div>
   </div>
@@ -541,7 +560,6 @@ document.getElementsByTagName('head')[0].appendChild(style);
         // Optional reveal.js plugins
         dependencies: [
           { src: 'JFTaylor_files/reveal.js-3.3.0.1/plugin/notes/notes.js', async: true },
-          { src: 'JFTaylor_files/reveal.js-3.3.0.1/plugin/zoom-js/zoom.js', async: true },
         ]
       });
     </script>

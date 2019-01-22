@@ -6,8 +6,10 @@ render(
   "JFTaylor.Rmd", 
   revealjs_presentation(
     incremental = FALSE, 
-    theme = "night", 
-    reveal_plugins = c("notes", "zoom"), 
-    self_contained = FALSE
+    theme = "simple", 
+    reveal_plugins = c("notes"), 
+    self_contained = FALSE,
+    smart = TRUE,
+    css = "columns.css"
     )
   )

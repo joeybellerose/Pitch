@@ -11,9 +11,9 @@ output: revealjs::revealjs_presentation
 
 - What could we accomplish if we had the right answers to the right questions at the right time?
 
-- > Data Science is the process of turning data into knowledge, understanding and insight. ~Hadley Wickham (RStudio Chief Data Scientist)
+"Data Science is the process by which data becomes understanding, knowledge, and insight."
 
-- > If I had asked people what they wanted, they would have said faster horses. ~Henry Ford
+~Hadley Wickham (RStudio Chief Data Scientist)
 
 
 ## How We Extract Insight?
@@ -23,6 +23,13 @@ output: revealjs::revealjs_presentation
 - Build in Transparency at all levels
 
 ![alt text](TransparencyEdit.png)
+
+
+
+<aside class="notes">
+- Create clarity, accuracy and understanding
+- A proper foundation allows understanding of context
+</aside>
 
   
 
@@ -44,15 +51,32 @@ output: revealjs::revealjs_presentation
 
 
 ## What Is Our Collective Experience?
-- Combined 20 years of working on NAVAIR projects
 
-- Who
-  - PMA-201 (M&S/T&E Analysis, Requirements Management)
-  - PMA-280 (Proposal Analysis/Negotiation)
-  - PMA-281 (Cost Analysis)
-  - PMA-209 (Financial Mangement)
-  - 4.0M (AoA)
+Combined 20 years of working on NAVAIR projects
 
+<div class="container">
+
+<div class="col">
+- Customers
+  - PMA-201
+  - PMA-280
+  - PMA-281
+  - PMA-209
+  - 4.0M
+</div>
+
+
+<div class="col">  
+- Services
+  - M&S/T&E Analysis
+  - Requirements Management
+  - Proposal Analysis/Negotiation
+  - Cost Analysis
+  - Financial Mangement
+  - AoA
+</div>
+  
+<div class="col">
 - Tools
   - Excel
   - Matlab
@@ -60,3 +84,5 @@ output: revealjs::revealjs_presentation
   - Tableau
   - Qlik
   - Python
+</div>
+</div>

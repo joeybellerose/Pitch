@@ -52,6 +52,7 @@ output: revealjs::revealjs_presentation
 ## How Do Others Benefit?
 
 - Automated analysis/reporting
+  - Allow SMEs to focus more on results and not on manipulating data
 
 - Real-time results
 
